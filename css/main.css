@@ -1,10 +1,16 @@
 .topContainer{
     display: flex;
+    height: 40vh;
+    width: 40vw;
+    background-color: pink;
     
 }
 
 .toolContainer{
     flex-direction: row;
+    width: 60vw;
+    height: 30vh;
+
 }
 
 .toolContainer>div{
