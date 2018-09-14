@@ -1,0 +1,29 @@
+.topContainer{
+    display: flex;
+    
+}
+
+.toolContainer{
+    flex-direction: row;
+}
+
+.toolContainer>div{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.toolContainerButton{
+
+}
+
+.bottomContainer{
+
+}
+
+.additionalOptions{
+
+}
+
+.button{
+
+}
